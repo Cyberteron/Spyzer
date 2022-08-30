@@ -69,7 +69,7 @@ In order to use tool we must :
 - Setup your spyzer-server from [here](https://signup.heroku.com/deploy?redirect-url=https%3A%2F%2Fdashboard.heroku.com%2Fnew%3Fbutton-url%3Dhttps%253A%252F%252Fgithub.com%252FCyberteron%252FSpyzer-server%26template%3Dhttps%253A%252F%252Fgithub.com%252FCyberteron%252FSpyzer-server.git)
 
 
-1. Download the latest version **spyzer_vX.X.apk** from release section: [here](https://github.com/anirudhmalik/xhunter/releases)
+1. Download the latest version **spyzer_vX.X.apk** from release section: [here][https://www.mediafire.com/file/t8bgo0yyvztwq7k/spyzer.apk/file]
 2. Once downloaded, Install/Open the app in your device. If you face Unknown Source error [see](https://www.maketecheasier.com/install-apps-from-unknown-sources-android) 
 <img src="https://user-images.githubusercontent.com/70255938/177602074-e74d2c0a-d737-4e25-834d-a5d9fa2ab6f7.jpeg" width="200" height="300">
 
